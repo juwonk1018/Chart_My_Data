@@ -1,0 +1,12 @@
+{
+    "manifest_version" : 3,
+    "name" : "Chart My Data",
+    "description" : "데이터 기록 및 차트 분석",
+    "version": "1.0.0",
+    "icons": {
+        "16": "images/favicon16.png",
+        "32": "images/favicon32.png",
+        "64": "images/favicon64.png",
+        "128": "images/favicon128.png"
+    }
+}
